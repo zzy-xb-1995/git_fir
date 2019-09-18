@@ -8,6 +8,7 @@ public class GitFirApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitFirApplication.class, args);
+        System.out.println(1);
     }
 
 }
